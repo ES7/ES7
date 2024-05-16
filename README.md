@@ -1,11 +1,11 @@
+<h4 align="left">I am currently a final year undergraduate at IIT (ISM) Dhanbad. I am an enthusiastic learner and explorer, especially in the field of Machine Learning and Artificial Intelligence, also in Image Processing and Robotics.</h4>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ES7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ES7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true"  />
 
 ###
 
@@ -47,9 +47,13 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true"  />
 
-<img src="https://raw.githubusercontent.com/ES7/ES7/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@sayedebad.777&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
