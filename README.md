@@ -1,26 +1,13 @@
-<h5 align="center">I am currently a final year undergraduate at IIT (ISM) Dhanbad. I am an enthusiastic learner and explorer, especially in the field of Machine Learning and Artificial Intelligence, also in Image Processing and Robotics.</h5>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ES7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ES7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on [developing and fine-tuning Large Language Models (LLMs) for natural language processing tasks.](https://github.com/ES7/Introduction-to-LLMs)
+###
 
-- 👨‍💻 All of my projects are available at [https://es7.github.io/Portfolio](https://es7.github.io/Portfolio)
+<img align="right" height="150" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true"  />
 
-- 📝 I regularly write articles on [https://medium.com/@sayedebad.777](https://medium.com/@sayedebad.777)
-
-- 📫 How to reach me **sayedebad.777@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ebadsayed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ebadsayed7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebad-sayed-0861a6227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebad-sayed-0861a6227" height="30" width="40" /></a>
-<a href="https://kaggle.com/ebadsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ebadsayed" height="30" width="40" /></a>
-<a href="https://instagram.com/ebadsayed_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebadsayed_777" height="30" width="40" /></a>
-<a href="https://medium.com/@sayedebad.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayedebad.777" height="30" width="40" /></a>
-</p>
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
