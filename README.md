@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=es7&label=Profile%20views&color=0e75b6&style=flat" alt="es7" /> </p>
 
-- 🔭 I’m currently working on [developing and fine-tuning Large Language Models (LLMs) for natural language processing tasks.](https://github.com/ES7/Introduction-to-LLMs)
+- 🔭 I’m currently working on [Large Language Models (LLMs)](https://github.com/ES7/Introduction-to-LLMs)
 
-- 👨‍💻 All of my projects are available at [https://es7.github.io/Portfolio](https://es7.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://es7.github.io/Portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@sayedebad.777](https://medium.com/@sayedebad.777)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sayedebad.777)
 
 - 📫 How to reach me **sayedebad.777@gmail.com**
 
