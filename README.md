@@ -69,18 +69,19 @@
 <a href="https://fb.com/ebad sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebad sayed" height="30" width="40" /></a>
 <a href="https://instagram.com/ebadsayed_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebadsayed_777" height="30" width="40" /></a>
 </p>
-<h3 align="center">Show some ❤️ by giving Stars⭐ to some of my repositories!</h3>
 
 ###
 <div align="center">
 <h2>My Recent Medium Articles</h2>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/1" alt="Recent Article 1"> 
-</a>div
-###
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/1" alt="Recent Article 1"></a>
+</div>
+
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ES7/count.svg?"/>
+  <h2>Visitor's Count</h2><img src="https://profile-counter.glitch.me/ES7/count.svg?"/>
 </div>
+
+<h3 align="center">Show some ❤️ by giving Stars⭐ to some of my repositories!</h3>
 
 ###
