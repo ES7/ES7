@@ -1,4 +1,6 @@
-<h4 align="left">I am currently a final year undergraduate at IIT (ISM) Dhanbad. I am an enthusiastic learner and explorer, especially in the field of Machine Learning and Artificial Intelligence, also in Image Processing and Robotics.</h4>
+<h1 align="center">Hi 👋, I'm Ebad Sayed</h1>
+<h3 align="center">I am an passionate Machine Learning Engineer from Mumbai</h3>
+
 
 ###
 
