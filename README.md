@@ -49,7 +49,7 @@
 
 ###
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=es7&theme=dark" alt="es7" /></div>
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=es7&theme=dark" alt="es7" /></div>
 
 ###
 
