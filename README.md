@@ -2,6 +2,11 @@
 <h3 align="center">I am a passionate Machine Learning Engineer from Mumbai</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering SVM: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/matstering-svm-a-comprehensive-guide-with-detailed-math-and-code-4a16134e215f?source=rss-a35fc8b432cf------2)
+- [Mastering Random Forest: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/mastering-random-forest-a-comprehensive-guide-with-detailed-math-and-code-60aebffb2b7f?source=rss-a35fc8b432cf------2)
+- [Mastering Decision Tree: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/decision-tree-a-comprehensive-guide-with-detailed-math-and-code-d88e55575a0b?source=rss-a35fc8b432cf------2)
+- [Mastering K-Means: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/mastering-k-means-baeccdac29e1?source=rss-a35fc8b432cf------2)
+- [Mastering K-Nearest Neighbors &lpar;KNN&rpar;: A Comprehensive Guide with Detailed Code](https://medium.com/@sayedebad.777/mastering-k-nearest-neighbors-knn-aa4b2ffca68b?source=rss-a35fc8b432cf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ###
