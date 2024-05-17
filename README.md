@@ -3,7 +3,7 @@
 
 ###
 
-[![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ES7&theme=github-compact&bg_color=000000&title_color=50C878&area=true&area_color=00FF00&line=00FF00)](https://github.com/ES7/github-readme-activity-graph)
+[![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ES7&theme=github-compact&bg_color=000000&title_color=50C878&area=true&area_color=00FF00&line=00FF00&border_Radius=8)](https://github.com/ES7/github-readme-activity-graph)
 
 ###
 
