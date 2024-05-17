@@ -11,7 +11,7 @@
 
 ###
 
-[![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ES7&theme=github-compact)](https://github.com/ES7/github-readme-activity-graph)
+[![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ES7&theme=github-compact&bg_color=000000)](https://github.com/ES7/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ES7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
