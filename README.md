@@ -18,6 +18,7 @@
 
 ###
 
+<h2 align="center">🛠️Languages-Tools🛠️</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -53,14 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
-
-
-
-<p align="center">
-    <h2 align="center">Tools</h2>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  </a>
-</p>
 
 
 ###
