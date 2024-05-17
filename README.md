@@ -72,11 +72,11 @@
 <h3 align="center">Show some ❤️ by giving Stars⭐ to some of my repositories!</h3>
 
 ###
-
+<div align="center">
+<h2>My Recent Medium Articles</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0" alt="Recent Article 0"> 
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/1" alt="Recent Article 1"> 
-
+</a>div
 ###
 
 <div align="center">
