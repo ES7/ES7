@@ -61,22 +61,23 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect With Me!!!🤝</h2>
+<p align="center">
 <a href="https://linkedin.com/in/ebad-sayed-0861a6227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebad-sayed-0861a6227" height="30" width="40" /></a>
 <a href="https://medium.com/@sayedebad.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayedebad.777" height="30" width="40" /></a>
 <a href="https://twitter.com/@ebadsayed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ebadsayed7" height="30" width="40" /></a>
 <a href="https://fb.com/ebad sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebad sayed" height="30" width="40" /></a>
 <a href="https://instagram.com/ebadsayed_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebadsayed_777" height="30" width="40" /></a>
 </p>
+<h3 align="center">Show some ❤️ by giving Stars⭐ to some of my repositories!</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@sayedebad.777&theme=merko" alt="Layout with last medium posts"/>
-</div>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/0" alt="Recent Article 0"> 
 
-###
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sayedebad.777/2" alt="Recent Article 2"> 
+
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Mastering SVM: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/matstering-svm-a-comprehensive-guide-with-detailed-math-and-code-4a16134e215f?source=rss-a35fc8b432cf------2)
