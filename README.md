@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebad Sayed</h1>
 <h3 align="center">I am a passionate Machine Learning Engineer from Mumbai</h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [Mastering SVM: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/matstering-svm-a-comprehensive-guide-with-detailed-math-and-code-4a16134e215f?source=rss-a35fc8b432cf------2)
-- [Mastering Random Forest: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/mastering-random-forest-a-comprehensive-guide-with-detailed-math-and-code-60aebffb2b7f?source=rss-a35fc8b432cf------2)
-- [Mastering Decision Tree: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/decision-tree-a-comprehensive-guide-with-detailed-math-and-code-d88e55575a0b?source=rss-a35fc8b432cf------2)
-- [Mastering K-Means: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/mastering-k-means-baeccdac29e1?source=rss-a35fc8b432cf------2)
-- [Mastering K-Nearest Neighbors &lpar;KNN&rpar;: A Comprehensive Guide with Detailed Code](https://medium.com/@sayedebad.777/mastering-k-nearest-neighbors-knn-aa4b2ffca68b?source=rss-a35fc8b432cf------2)
-<!-- BLOG-POST-LIST:END -->
-
 ###
 
 [![Ebad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ES7&theme=github-compact&bg_color=000000&title_color=50C878&area=true&area_color=00FF00&line=00FF00)](https://github.com/ES7/github-readme-activity-graph)
@@ -86,8 +78,13 @@
 
 ###
 
-![snake gif](https://github.com/ES7/ES7/blob/output/github-contribution-grid-snake.gif)
-
+<!-- BLOG-POST-LIST:START -->
+- [Mastering SVM: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/matstering-svm-a-comprehensive-guide-with-detailed-math-and-code-4a16134e215f?source=rss-a35fc8b432cf------2)
+- [Mastering Random Forest: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/mastering-random-forest-a-comprehensive-guide-with-detailed-math-and-code-60aebffb2b7f?source=rss-a35fc8b432cf------2)
+- [Mastering Decision Tree: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/decision-tree-a-comprehensive-guide-with-detailed-math-and-code-d88e55575a0b?source=rss-a35fc8b432cf------2)
+- [Mastering K-Means: A Comprehensive Guide with Detailed Math and Code](https://medium.com/@sayedebad.777/mastering-k-means-baeccdac29e1?source=rss-a35fc8b432cf------2)
+- [Mastering K-Nearest Neighbors &lpar;KNN&rpar;: A Comprehensive Guide with Detailed Code](https://medium.com/@sayedebad.777/mastering-k-nearest-neighbors-knn-aa4b2ffca68b?source=rss-a35fc8b432cf------2)
+<!-- BLOG-POST-LIST:END -->
 
 ###
 
