@@ -58,11 +58,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ebadsayed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ebadsayed7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ebad-sayed-0861a6227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebad-sayed-0861a6227" height="30" width="40" /></a>
-<a href="https://kaggle.com/ebadsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ebadsayed" height="30" width="40" /></a>
-<a href="https://instagram.com/ebadsayed_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebadsayed_777" height="30" width="40" /></a>
 <a href="https://medium.com/@sayedebad.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayedebad.777" height="30" width="40" /></a>
+<a href="https://twitter.com/@ebadsayed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ebadsayed7" height="30" width="40" /></a>
+<a href="https://fb.com/ebad sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebad sayed" height="30" width="40" /></a>
+<a href="https://instagram.com/ebadsayed_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebadsayed_777" height="30" width="40" /></a>
 </p>
 
 ###
