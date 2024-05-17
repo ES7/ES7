@@ -80,6 +80,10 @@
 
 ###
 
+![snake gif](https://github.com/ES7/ES7/blob/output/github-contribution-grid-snake.gif)
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ES7/count.svg?"/>
 </div>
