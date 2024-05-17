@@ -56,8 +56,10 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=es7&theme=merko" alt="es7" />
+  <div align="right">
   <img height="150" src="https://github.com/ES7/ES7/blob/main/logo.gif"  />
-  <img align="right" height="150" src="https://github.com/ES7/ES7/blob/main/gif_laptop.gif"  />
+  <img  height="150" src="https://github.com/ES7/ES7/blob/main/gif_laptop.gif"  />
+  </div>
 </div>
 
 ###
