@@ -49,11 +49,14 @@
 
 ###
 
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=es7&theme=dark" alt="es7" /></div>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=es7&theme=dark" alt="es7" />
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true"  />
+
 
 ###
 
